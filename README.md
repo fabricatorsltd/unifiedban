@@ -1,2 +1,2 @@
-# unifiedban
-Redirect to unified/ban
+# unified/ban
+# Check out https://github.com/unified-ban/ !
