@@ -1,0 +1,32 @@
+unified/ban - Management and protection systems
+
+--------------------------------------------------
+
+© fabricators SRL, https://fabricators.ltd , https://unifiedban.solutions
+
+unified/ban is provided under AGPL v3 with modified Section 7. In accordance
+with Section 7 of the AGPL, the Works included in this package or repository
+(excluding 3rd party Software), are subject to the following additional terms:
+
+You cannot remove any unified/ban and/or fabricator's logo or branding either
+from source code or user interface and/or any other interface that can be publicly
+seen by end user. No other brands, trade names, trademarks or service marks
+may be used for derivative products.
+All names, links and logos of unified/ban and/or fabricator's must be kept as
+in original distribution without any changes in all software screens
+(including console and file logs, dashboard, software header etc). There are tight
+and enforcing restrictions on your ability to modify, change or remove
+unified/ban and/or fabricator's names and logos from unified/ban software.
+
+If you use this source code, even partially, for your commercial purposes:
+- you must clearly declare it and reference our GitHub Organization (on websites,
+  blog posts,media, newsletter, etc.)
+- you can't replicate our services with the sole scope of competition
+- you can't convey a services/products declaring it as base of our services/products
+
+It is strictly forbidden to convey a product/service based on this source code
+replacing the license terms partially and/or completely.
+
+For more information, see Licensing FAQ:
+
+https://docs.fabricators.ltd/docs/licenses/faq
