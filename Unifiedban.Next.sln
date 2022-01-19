@@ -6,6 +6,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.Common", "u
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.Common.Telegram", "unifiedban-common-telegram\Unifiedban.Next.Common.Telegram.csproj", "{0ECEF5AD-2E33-4655-AFEB-7EB1E80D2DAB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Terminals", "Terminals", "{1E2AB1AB-046F-4B0C-94E0-69CFCBC62DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.Terminal.Telegram", "Terminals\Telegram\Unifiedban.Next.Terminal.Telegram.csproj", "{BB65F411-42D7-45D7-BB9B-828452029DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.BusinessLogic", "unifiedban-businesslogic\Unifiedban.Next.BusinessLogic.csproj", "{4D27C140-3CED-46A1-B30A-334743AD0D0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +30,16 @@ Global
 		{0ECEF5AD-2E33-4655-AFEB-7EB1E80D2DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ECEF5AD-2E33-4655-AFEB-7EB1E80D2DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ECEF5AD-2E33-4655-AFEB-7EB1E80D2DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB65F411-42D7-45D7-BB9B-828452029DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB65F411-42D7-45D7-BB9B-828452029DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB65F411-42D7-45D7-BB9B-828452029DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB65F411-42D7-45D7-BB9B-828452029DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D27C140-3CED-46A1-B30A-334743AD0D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D27C140-3CED-46A1-B30A-334743AD0D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D27C140-3CED-46A1-B30A-334743AD0D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D27C140-3CED-46A1-B30A-334743AD0D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BB65F411-42D7-45D7-BB9B-828452029DDB} = {1E2AB1AB-046F-4B0C-94E0-69CFCBC62DA3}
 	EndGlobalSection
 EndGlobal

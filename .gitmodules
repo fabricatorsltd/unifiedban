@@ -7,3 +7,9 @@
 [submodule "unifiedban-common-telegram"]
 	path = unifiedban-common-telegram
 	url = https://github.com/fabricatorsltd/unifiedban-common-telegram
+[submodule "Terminals/Telegram"]
+	path = Terminals/Telegram
+	url = https://github.com/fabricatorsltd/unifiedban-terminals-telegram
+[submodule "unifiedban-businesslogic"]
+	path = unifiedban-businesslogic
+	url = https://github.com/fabricatorsltd/unifiedban-businesslogic

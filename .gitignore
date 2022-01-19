@@ -341,7 +341,5 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
-SubPixel.OwnBusiness.RESTAPI/Modules/
 
-# Force Inclusion
-!SubPixel.OwnBusiness.RESTAPI/Log/
+appsettings.json
