@@ -13,3 +13,6 @@
 [submodule "unifiedban-businesslogic"]
 	path = unifiedban-businesslogic
 	url = https://github.com/fabricatorsltd/unifiedban-businesslogic
+[submodule "Services/Telegram"]
+	path = Services/Telegram
+	url = https://github.com/fabricatorsltd/unifiedban-services-telegram

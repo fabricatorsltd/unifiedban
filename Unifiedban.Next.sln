@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.Terminal.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.BusinessLogic", "unifiedban-businesslogic\Unifiedban.Next.BusinessLogic.csproj", "{4D27C140-3CED-46A1-B30A-334743AD0D0C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E33336DD-3687-4DB4-A0EF-EFEFAC3ED8B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.Service.Telegram", "Services\Telegram\Unifiedban.Next.Service.Telegram.csproj", "{99EA456C-B935-4FDC-916A-9CAD48EEE0DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,8 +42,13 @@ Global
 		{4D27C140-3CED-46A1-B30A-334743AD0D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D27C140-3CED-46A1-B30A-334743AD0D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D27C140-3CED-46A1-B30A-334743AD0D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EA456C-B935-4FDC-916A-9CAD48EEE0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EA456C-B935-4FDC-916A-9CAD48EEE0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EA456C-B935-4FDC-916A-9CAD48EEE0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EA456C-B935-4FDC-916A-9CAD48EEE0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BB65F411-42D7-45D7-BB9B-828452029DDB} = {1E2AB1AB-046F-4B0C-94E0-69CFCBC62DA3}
+		{99EA456C-B935-4FDC-916A-9CAD48EEE0DB} = {E33336DD-3687-4DB4-A0EF-EFEFAC3ED8B5}
 	EndGlobalSection
 EndGlobal
