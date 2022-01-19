@@ -1,0 +1,9 @@
+[submodule "unifiedban-models"]
+	path = unifiedban-models
+	url = https://github.com/fabricatorsltd/unifiedban-models
+[submodule "unifiedban-common"]
+	path = unifiedban-common
+	url = https://github.com/fabricatorsltd/unifiedban-common
+[submodule "unifiedban-common-telegram"]
+	path = unifiedban-common-telegram
+	url = https://github.com/fabricatorsltd/unifiedban-common-telegram

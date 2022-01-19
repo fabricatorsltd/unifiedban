@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.Models", "unifiedban-models\Unifiedban.Next.Models.csproj", "{32B9087A-00B6-4E3B-9A0C-A92F2AAD342A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.Common", "unifiedban-common\Unifiedban.Next.Common.csproj", "{BADDD471-3765-4418-A03E-8F80292F728F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unifiedban.Next.Common.Telegram", "unifiedban-common-telegram\Unifiedban.Next.Common.Telegram.csproj", "{0ECEF5AD-2E33-4655-AFEB-7EB1E80D2DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B9087A-00B6-4E3B-9A0C-A92F2AAD342A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B9087A-00B6-4E3B-9A0C-A92F2AAD342A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B9087A-00B6-4E3B-9A0C-A92F2AAD342A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B9087A-00B6-4E3B-9A0C-A92F2AAD342A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADDD471-3765-4418-A03E-8F80292F728F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADDD471-3765-4418-A03E-8F80292F728F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADDD471-3765-4418-A03E-8F80292F728F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADDD471-3765-4418-A03E-8F80292F728F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECEF5AD-2E33-4655-AFEB-7EB1E80D2DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECEF5AD-2E33-4655-AFEB-7EB1E80D2DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECEF5AD-2E33-4655-AFEB-7EB1E80D2DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECEF5AD-2E33-4655-AFEB-7EB1E80D2DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
